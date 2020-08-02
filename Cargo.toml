@@ -1,0 +1,9 @@
+[package]
+name = "dwarves-in-space"
+version = "0.1.0"
+authors = ["Jordan Cran <jordancran@gmail.com>"]
+edition = "2018"
+
+[dependencies.amethyst]
+version = "0.15.0"
+features = ["metal"]
